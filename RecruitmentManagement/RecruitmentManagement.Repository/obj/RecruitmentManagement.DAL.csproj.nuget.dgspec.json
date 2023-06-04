@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.DAL.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\FIK.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\FIK.DAL.csproj",
+        "projectName": "FIK.DAL",
+        "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\FIK.DAL.csproj",
+        "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\RecruitmentManagement.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\RecruitmentManagement.Model.csproj",
+        "projectName": "RecruitmentManagement.Model",
+        "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\RecruitmentManagement.Model.csproj",
+        "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.DAL.csproj",
+        "projectName": "RecruitmentManagement.DAL",
+        "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.DAL.csproj",
+        "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\FIK.DAL.csproj": {
+                "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\FIK.DAL\\FIK.DAL.csproj"
+              },
+              "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\RecruitmentManagement.Model.csproj": {
+                "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Model\\RecruitmentManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

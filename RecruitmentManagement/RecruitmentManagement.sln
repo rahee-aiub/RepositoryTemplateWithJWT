@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentManagement.Client", "RecruitmentManagement\RecruitmentManagement.Client.csproj", "{E9A66B60-E208-41A6-ADBC-838BBBD4F7F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentManagement.Model", "RecruitmentManagement.Model\RecruitmentManagement.Model.csproj", "{79BBF556-AE10-4572-9F0F-61B1E966CFC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentManagement.Service", "RecruitmentManagement.Service\RecruitmentManagement.Service.csproj", "{38CE7A74-2093-4AC5-A4A3-87B3A20BDB49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentManagement.DAL", "RecruitmentManagement.Repository\RecruitmentManagement.DAL.csproj", "{D0466034-D828-456B-BC2C-7FDC0ABB52BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentManagement.Interface", "RecruitmentManagement.Interface\RecruitmentManagement.Interface.csproj", "{9CA9E68C-2910-467C-9BBD-5E1EB9DEFBC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FIK.DAL", "FIK.DAL\FIK.DAL.csproj", "{3AD60C2E-8F48-40E5-9B17-79E3E9A4C6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A66B60-E208-41A6-ADBC-838BBBD4F7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A66B60-E208-41A6-ADBC-838BBBD4F7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A66B60-E208-41A6-ADBC-838BBBD4F7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A66B60-E208-41A6-ADBC-838BBBD4F7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BBF556-AE10-4572-9F0F-61B1E966CFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BBF556-AE10-4572-9F0F-61B1E966CFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BBF556-AE10-4572-9F0F-61B1E966CFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BBF556-AE10-4572-9F0F-61B1E966CFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CE7A74-2093-4AC5-A4A3-87B3A20BDB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CE7A74-2093-4AC5-A4A3-87B3A20BDB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CE7A74-2093-4AC5-A4A3-87B3A20BDB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CE7A74-2093-4AC5-A4A3-87B3A20BDB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0466034-D828-456B-BC2C-7FDC0ABB52BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0466034-D828-456B-BC2C-7FDC0ABB52BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0466034-D828-456B-BC2C-7FDC0ABB52BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0466034-D828-456B-BC2C-7FDC0ABB52BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA9E68C-2910-467C-9BBD-5E1EB9DEFBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA9E68C-2910-467C-9BBD-5E1EB9DEFBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA9E68C-2910-467C-9BBD-5E1EB9DEFBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA9E68C-2910-467C-9BBD-5E1EB9DEFBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD60C2E-8F48-40E5-9B17-79E3E9A4C6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD60C2E-8F48-40E5-9B17-79E3E9A4C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD60C2E-8F48-40E5-9B17-79E3E9A4C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD60C2E-8F48-40E5-9B17-79E3E9A4C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E986ABA-58B7-4BA9-8C26-92192F73C9AC}
+	EndGlobalSection
+EndGlobal

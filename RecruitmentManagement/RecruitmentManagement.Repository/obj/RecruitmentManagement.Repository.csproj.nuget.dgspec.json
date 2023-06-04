@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.Repository.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.Repository.csproj",
+        "projectName": "RecruitmentManagement.Repository",
+        "projectPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\RecruitmentManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TestAPI\\RecruitmentManagement\\RecruitmentManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

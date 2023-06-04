@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RecruitmentManagement.Interface/1.0.0": {
+        "dependencies": {
+          "RecruitmentManagement.Model": "1.0.0"
+        },
+        "runtime": {
+          "RecruitmentManagement.Interface.dll": {}
+        }
+      },
+      "RecruitmentManagement.Model/1.0.0": {
+        "runtime": {
+          "RecruitmentManagement.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecruitmentManagement.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecruitmentManagement.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

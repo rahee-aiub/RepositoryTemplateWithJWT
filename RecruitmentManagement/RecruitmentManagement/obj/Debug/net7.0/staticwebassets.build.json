@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4P0kSKB9AJluWUs+Mroq+qd1HaIJMu/SzS4JnCnKUNg=",
+  "Source": "RecruitmentManagement.Client",
+  "BasePath": "_content/RecruitmentManagement.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

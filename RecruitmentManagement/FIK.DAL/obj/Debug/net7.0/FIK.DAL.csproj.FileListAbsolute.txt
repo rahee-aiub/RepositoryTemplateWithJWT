@@ -1,0 +1,12 @@
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\bin\Debug\net7.0\FIK.DAL.deps.json
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\bin\Debug\net7.0\FIK.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\bin\Debug\net7.0\FIK.DAL.pdb
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.csproj.AssemblyReference.cache
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.AssemblyInfoInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.AssemblyInfo.cs
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.csproj.CoreCompileInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\refint\FIK.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\FIK.DAL.pdb
+F:\Projects\TestAPI\RecruitmentManagement\FIK.DAL\obj\Debug\net7.0\ref\FIK.DAL.dll

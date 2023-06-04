@@ -1,0 +1,9 @@
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\bin\Debug\netcoreapp2.1\FIK.DAL.deps.json
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\bin\Debug\netcoreapp2.1\FIK.DAL.dll
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\bin\Debug\netcoreapp2.1\FIK.DAL.pdb
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.csproj.CoreCompileInputs.cache
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.AssemblyInfoInputs.cache
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.AssemblyInfo.cs
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.dll
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.pdb
+E:\Svn Projects\VS 2017\Vat_Web_VS17_Bandroll\VatPro\FIK.DAL\obj\Debug\netcoreapp2.1\FIK.DAL.csprojAssemblyReference.cache

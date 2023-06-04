@@ -1,0 +1,12 @@
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\bin\Debug\net7.0\RecruitmentManagement.Model.deps.json
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\bin\Debug\net7.0\RecruitmentManagement.Model.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\bin\Debug\net7.0\RecruitmentManagement.Model.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.csproj.AssemblyReference.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.AssemblyInfoInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.AssemblyInfo.cs
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.csproj.CoreCompileInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\refint\RecruitmentManagement.Model.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\RecruitmentManagement.Model.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Model\obj\Debug\net7.0\ref\RecruitmentManagement.Model.dll

@@ -1,0 +1,15 @@
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\bin\Debug\net7.0\RecruitmentManagement.Interface.deps.json
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\bin\Debug\net7.0\RecruitmentManagement.Interface.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\bin\Debug\net7.0\RecruitmentManagement.Interface.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\bin\Debug\net7.0\RecruitmentManagement.Model.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\bin\Debug\net7.0\RecruitmentManagement.Model.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.csproj.AssemblyReference.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.AssemblyInfoInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.AssemblyInfo.cs
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.csproj.CoreCompileInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.csproj.CopyComplete
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\refint\RecruitmentManagement.Interface.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\RecruitmentManagement.Interface.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Interface\obj\Debug\net7.0\ref\RecruitmentManagement.Interface.dll

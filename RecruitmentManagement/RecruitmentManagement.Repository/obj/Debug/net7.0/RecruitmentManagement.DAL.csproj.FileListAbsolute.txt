@@ -1,0 +1,17 @@
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\RecruitmentManagement.DAL.deps.json
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\RecruitmentManagement.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\RecruitmentManagement.DAL.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\FIK.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\RecruitmentManagement.Model.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\FIK.DAL.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\bin\Debug\net7.0\RecruitmentManagement.Model.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.csproj.AssemblyReference.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.AssemblyInfoInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.AssemblyInfo.cs
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.csproj.CoreCompileInputs.cache
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.csproj.CopyComplete
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\refint\RecruitmentManagement.DAL.dll
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\RecruitmentManagement.DAL.pdb
+F:\Projects\TestAPI\RecruitmentManagement\RecruitmentManagement.Repository\obj\Debug\net7.0\ref\RecruitmentManagement.DAL.dll
